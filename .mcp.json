@@ -1,0 +1,9 @@
+{
+	"mcpServers": {
+		"crm-server": {
+			"type": "stdio",
+			"command": "/usr/bin/env",
+			"args": ["node", "/Users/ahmadzarea/Downloads/holbertonschool-agentic_ai/agentic-ai/04_mcp/agentic-opc-tp4/mcp_server.js"]
+		}
+	}
+}
